@@ -318,11 +318,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\github\\DemoAPI\\API\\API.csproj",
+      "projectUniqueName": "D:\\github\\asp.net-project-with-docker\\DemoAPI\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\github\\DemoAPI\\API\\API.csproj",
+      "projectPath": "D:\\github\\asp.net-project-with-docker\\DemoAPI\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Berfin\\.nuget\\packages\\",
-      "outputPath": "D:\\github\\DemoAPI\\API\\obj\\",
+      "outputPath": "D:\\github\\asp.net-project-with-docker\\DemoAPI\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Berfin\\AppData\\Roaming\\NuGet\\NuGet.Config",

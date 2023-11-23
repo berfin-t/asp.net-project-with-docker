@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W84KeuFye6dHlB4gqsnw7FFDTPDNDgSkWi/x+LPlDrLCZNhvqMr/UFEzkeIgmyHb2eyOKoFKqSv56RSl73p/kA==",
+  "dgSpecHash": "9jQpNoA2Jsi1N5skjFW/eQu7gotJkJtvdFGGXnG+7gLTtSaGm1OU68J31zZvDO8Hjf7ftkMyr7oPsRD1vHEcCA==",
   "success": true,
-  "projectFilePath": "D:\\github\\DemoAPI\\API\\API.csproj",
+  "projectFilePath": "D:\\github\\asp.net-project-with-docker\\DemoAPI\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Berfin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Berfin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
